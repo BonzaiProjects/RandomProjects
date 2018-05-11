@@ -1,0 +1,14 @@
+ALL NEW PROJECT
+D2 Position
+Custom D2 title fix
+Fix Start+Close program
+ - pretty
+Minimize?
+ - maybe, on start?...
+Try-Catch !
+ - catch idiot stuff
+ - messagebox/toolstriplabel
+fancy ui?
+ - gfx!
+split form > form + class's
+installer

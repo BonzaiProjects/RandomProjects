@@ -1,0 +1,26 @@
+BlueVex Testing
+
+bin
+obj
+
+*.gitignore
+*.gitignore_global
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
